@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #dfe2fe;
+    font-family: 'Raleway', sans-serif;
+    color: #40514e;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Courgette', cursive;
+    color: #8e98f5;
+}
+
+h2 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 2rem;
+    color: #8e98f5;
+    font-weight: normal;
+    padding: 10px;
+}
+
+h3 {
+    font-family: 'Playfair Display SC', serif;
+    color: #7874f2;
+}
+
+a {
+    color: #8e98f5;
+    font-family: 'Playfair Display SC', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #dfe2fe;
+}
+
+p {
+    line-height: 2;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.game-text {
+    text-align: right;
+}
+
+.top-container {
+    background-color: #dfe2fe;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #b1cbfa;
+    padding: 50px 0 20px;
+
+}
+
+.bottom-div {
+    background-color: #b1cbfa;
+}
+
+.copyright {
+    color: #dfe2fe;
+    font-size: 0.8rem;
+    padding: 20px 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 320px;
+}
+
+.profile-pic {
+    transform: rotate(90deg);
+    height: 200px;
+    border-radius: 100%;
+    position: relative;
+    top: 15px;
+    margin: 20px 0 50px 0;
+}
+
+.student {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    max-width: 150px;
+}
+
+.game-controller {
+    width: 25%;
+    max-width: 150px;
+    float: right;
+    margin-left: 30px;
+}
+
+.search {
+    height: 100px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+/* Flaired edges, by Tomas Theunissen */
+
+hr {
+    margin-top: 50px;
+    border: 0;
+    width: 60%;
+    height: 1px;
+    border-color: #eaf6f6;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.butn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: 'Playfair Display SC', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .butn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
