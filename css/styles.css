@@ -42,7 +42,7 @@ p {
 }
 
 .intro {
-    width: 30%;
+    width: 50%;
     margin: auto;
 }
 
@@ -99,7 +99,7 @@ margin: 100px 0;
 }
 
 .profile-pic {
-    image-orientation: none;
+    image-orientation: from-image;
     transform: rotate(90deg);
     height: 200px;
     border-radius: 100%;
