@@ -99,13 +99,13 @@ margin: 100px 0;
 }
 
 .profile-pic {
+    image-orientation: none;
     transform: rotate(90deg);
     height: 200px;
     border-radius: 100%;
     position: relative;
     top: 15px;
     margin: 20px 0 50px 0;
-    image-orientation: from-image;
 }
 
 .student {
