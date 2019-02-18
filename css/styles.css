@@ -105,6 +105,7 @@ margin: 100px 0;
     position: relative;
     top: 15px;
     margin: 20px 0 50px 0;
+    image-orientation: from-image;
 }
 
 .student {
